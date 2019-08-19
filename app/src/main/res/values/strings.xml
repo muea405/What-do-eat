@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">What do eat?</string>
+    <string name="action_one">Add Item</string>
+    <string name="action_two">Remove Item</string>
+</resources>
